@@ -41,6 +41,14 @@ namespace BinarySearchApp
       int interpolationSearch = InterpolationSearch(arrays, 42); // 2
       Console.WriteLine("at the location : " + interpolationSearch);
 
+      // Test
+
+      int a = 5;
+      int b = 5;
+
+      int result = a-- * ++b;
+      Console.WriteLine(result);
+
       Console.Read();
 
     }

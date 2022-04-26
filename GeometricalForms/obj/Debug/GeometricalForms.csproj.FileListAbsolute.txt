@@ -1,0 +1,14 @@
+D:\VisualStudio2019\ApplicationTest\GeometricalForms\bin\Debug\GeometricalForms.exe.config
+D:\VisualStudio2019\ApplicationTest\GeometricalForms\bin\Debug\GeometricalForms.exe
+D:\VisualStudio2019\ApplicationTest\GeometricalForms\bin\Debug\GeometricalForms.pdb
+D:\VisualStudio2019\ApplicationTest\GeometricalForms\obj\Debug\GeometricalForms.csproj.CoreCompileInputs.cache
+D:\VisualStudio2019\ApplicationTest\GeometricalForms\obj\Debug\GeometricalForms.exe
+D:\VisualStudio2019\ApplicationTest\GeometricalForms\obj\Debug\GeometricalForms.pdb
+D:\VisualStudio2019\ApplicationTest\GeometricalForms\obj\Debug\GeometricalForms.csproj.AssemblyReference.cache
+C:\Users\Harena\source\repos\ApplicationTest\GeometricalForms\bin\Debug\GeometricalForms.exe.config
+C:\Users\Harena\source\repos\ApplicationTest\GeometricalForms\bin\Debug\GeometricalForms.exe
+C:\Users\Harena\source\repos\ApplicationTest\GeometricalForms\bin\Debug\GeometricalForms.pdb
+C:\Users\Harena\source\repos\ApplicationTest\GeometricalForms\obj\Debug\GeometricalForms.csproj.AssemblyReference.cache
+C:\Users\Harena\source\repos\ApplicationTest\GeometricalForms\obj\Debug\GeometricalForms.csproj.CoreCompileInputs.cache
+C:\Users\Harena\source\repos\ApplicationTest\GeometricalForms\obj\Debug\GeometricalForms.exe
+C:\Users\Harena\source\repos\ApplicationTest\GeometricalForms\obj\Debug\GeometricalForms.pdb

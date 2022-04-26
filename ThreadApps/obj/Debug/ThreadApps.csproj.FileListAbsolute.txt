@@ -1,0 +1,14 @@
+D:\VisualStudio2019\ApplicationTest\ThreadApps\bin\Debug\ThreadApps.exe.config
+D:\VisualStudio2019\ApplicationTest\ThreadApps\bin\Debug\ThreadApps.exe
+D:\VisualStudio2019\ApplicationTest\ThreadApps\bin\Debug\ThreadApps.pdb
+D:\VisualStudio2019\ApplicationTest\ThreadApps\obj\Debug\ThreadApps.csproj.AssemblyReference.cache
+D:\VisualStudio2019\ApplicationTest\ThreadApps\obj\Debug\ThreadApps.csproj.CoreCompileInputs.cache
+D:\VisualStudio2019\ApplicationTest\ThreadApps\obj\Debug\ThreadApps.exe
+D:\VisualStudio2019\ApplicationTest\ThreadApps\obj\Debug\ThreadApps.pdb
+C:\Users\Harena\source\repos\ApplicationTest\ThreadApps\bin\Debug\ThreadApps.exe.config
+C:\Users\Harena\source\repos\ApplicationTest\ThreadApps\bin\Debug\ThreadApps.exe
+C:\Users\Harena\source\repos\ApplicationTest\ThreadApps\bin\Debug\ThreadApps.pdb
+C:\Users\Harena\source\repos\ApplicationTest\ThreadApps\obj\Debug\ThreadApps.csproj.AssemblyReference.cache
+C:\Users\Harena\source\repos\ApplicationTest\ThreadApps\obj\Debug\ThreadApps.csproj.CoreCompileInputs.cache
+C:\Users\Harena\source\repos\ApplicationTest\ThreadApps\obj\Debug\ThreadApps.exe
+C:\Users\Harena\source\repos\ApplicationTest\ThreadApps\obj\Debug\ThreadApps.pdb

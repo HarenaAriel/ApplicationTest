@@ -1,0 +1,14 @@
+D:\VisualStudio2019\ApplicationTest\EncodeAndTemp\bin\Debug\EncodeAndTemp.exe.config
+D:\VisualStudio2019\ApplicationTest\EncodeAndTemp\bin\Debug\EncodeAndTemp.exe
+D:\VisualStudio2019\ApplicationTest\EncodeAndTemp\bin\Debug\EncodeAndTemp.pdb
+D:\VisualStudio2019\ApplicationTest\EncodeAndTemp\obj\Debug\EncodeAndTemp.csproj.AssemblyReference.cache
+D:\VisualStudio2019\ApplicationTest\EncodeAndTemp\obj\Debug\EncodeAndTemp.csproj.CoreCompileInputs.cache
+D:\VisualStudio2019\ApplicationTest\EncodeAndTemp\obj\Debug\EncodeAndTemp.exe
+D:\VisualStudio2019\ApplicationTest\EncodeAndTemp\obj\Debug\EncodeAndTemp.pdb
+C:\Users\Harena\source\repos\ApplicationTest\EncodeAndTemp\bin\Debug\EncodeAndTemp.exe.config
+C:\Users\Harena\source\repos\ApplicationTest\EncodeAndTemp\bin\Debug\EncodeAndTemp.exe
+C:\Users\Harena\source\repos\ApplicationTest\EncodeAndTemp\bin\Debug\EncodeAndTemp.pdb
+C:\Users\Harena\source\repos\ApplicationTest\EncodeAndTemp\obj\Debug\EncodeAndTemp.csproj.AssemblyReference.cache
+C:\Users\Harena\source\repos\ApplicationTest\EncodeAndTemp\obj\Debug\EncodeAndTemp.csproj.CoreCompileInputs.cache
+C:\Users\Harena\source\repos\ApplicationTest\EncodeAndTemp\obj\Debug\EncodeAndTemp.exe
+C:\Users\Harena\source\repos\ApplicationTest\EncodeAndTemp\obj\Debug\EncodeAndTemp.pdb

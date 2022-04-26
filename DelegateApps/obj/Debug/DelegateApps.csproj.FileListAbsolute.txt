@@ -1,0 +1,14 @@
+D:\VisualStudio2019\ApplicationTest\DelegateApps\bin\Debug\DelegateApps.exe.config
+D:\VisualStudio2019\ApplicationTest\DelegateApps\bin\Debug\DelegateApps.exe
+D:\VisualStudio2019\ApplicationTest\DelegateApps\bin\Debug\DelegateApps.pdb
+D:\VisualStudio2019\ApplicationTest\DelegateApps\obj\Debug\DelegateApps.csproj.AssemblyReference.cache
+D:\VisualStudio2019\ApplicationTest\DelegateApps\obj\Debug\DelegateApps.csproj.CoreCompileInputs.cache
+D:\VisualStudio2019\ApplicationTest\DelegateApps\obj\Debug\DelegateApps.exe
+D:\VisualStudio2019\ApplicationTest\DelegateApps\obj\Debug\DelegateApps.pdb
+C:\Users\Harena\source\repos\ApplicationTest\DelegateApps\bin\Debug\DelegateApps.exe.config
+C:\Users\Harena\source\repos\ApplicationTest\DelegateApps\bin\Debug\DelegateApps.exe
+C:\Users\Harena\source\repos\ApplicationTest\DelegateApps\bin\Debug\DelegateApps.pdb
+C:\Users\Harena\source\repos\ApplicationTest\DelegateApps\obj\Debug\DelegateApps.csproj.AssemblyReference.cache
+C:\Users\Harena\source\repos\ApplicationTest\DelegateApps\obj\Debug\DelegateApps.csproj.CoreCompileInputs.cache
+C:\Users\Harena\source\repos\ApplicationTest\DelegateApps\obj\Debug\DelegateApps.exe
+C:\Users\Harena\source\repos\ApplicationTest\DelegateApps\obj\Debug\DelegateApps.pdb

@@ -1,0 +1,13 @@
+D:\VisualStudio2019\ApplicationTest\BinarySearchApp\bin\Debug\BinarySearchApp.exe.config
+D:\VisualStudio2019\ApplicationTest\BinarySearchApp\bin\Debug\BinarySearchApp.exe
+D:\VisualStudio2019\ApplicationTest\BinarySearchApp\bin\Debug\BinarySearchApp.pdb
+D:\VisualStudio2019\ApplicationTest\BinarySearchApp\obj\Debug\BinarySearchApp.csproj.CoreCompileInputs.cache
+D:\VisualStudio2019\ApplicationTest\BinarySearchApp\obj\Debug\BinarySearchApp.exe
+D:\VisualStudio2019\ApplicationTest\BinarySearchApp\obj\Debug\BinarySearchApp.pdb
+C:\Users\Harena\source\repos\ApplicationTest\BinarySearchApp\bin\Debug\BinarySearchApp.exe.config
+C:\Users\Harena\source\repos\ApplicationTest\BinarySearchApp\bin\Debug\BinarySearchApp.exe
+C:\Users\Harena\source\repos\ApplicationTest\BinarySearchApp\bin\Debug\BinarySearchApp.pdb
+C:\Users\Harena\source\repos\ApplicationTest\BinarySearchApp\obj\Debug\BinarySearchApp.csproj.AssemblyReference.cache
+C:\Users\Harena\source\repos\ApplicationTest\BinarySearchApp\obj\Debug\BinarySearchApp.csproj.CoreCompileInputs.cache
+C:\Users\Harena\source\repos\ApplicationTest\BinarySearchApp\obj\Debug\BinarySearchApp.exe
+C:\Users\Harena\source\repos\ApplicationTest\BinarySearchApp\obj\Debug\BinarySearchApp.pdb

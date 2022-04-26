@@ -1,0 +1,14 @@
+D:\VisualStudio2019\ApplicationTest\OutRefApps\bin\Debug\OutRefApps.exe.config
+D:\VisualStudio2019\ApplicationTest\OutRefApps\bin\Debug\OutRefApps.exe
+D:\VisualStudio2019\ApplicationTest\OutRefApps\bin\Debug\OutRefApps.pdb
+D:\VisualStudio2019\ApplicationTest\OutRefApps\obj\Debug\OutRefApps.csproj.AssemblyReference.cache
+D:\VisualStudio2019\ApplicationTest\OutRefApps\obj\Debug\OutRefApps.csproj.CoreCompileInputs.cache
+D:\VisualStudio2019\ApplicationTest\OutRefApps\obj\Debug\OutRefApps.exe
+D:\VisualStudio2019\ApplicationTest\OutRefApps\obj\Debug\OutRefApps.pdb
+C:\Users\Harena\source\repos\ApplicationTest\OutRefApps\bin\Debug\OutRefApps.exe.config
+C:\Users\Harena\source\repos\ApplicationTest\OutRefApps\bin\Debug\OutRefApps.exe
+C:\Users\Harena\source\repos\ApplicationTest\OutRefApps\bin\Debug\OutRefApps.pdb
+C:\Users\Harena\source\repos\ApplicationTest\OutRefApps\obj\Debug\OutRefApps.csproj.AssemblyReference.cache
+C:\Users\Harena\source\repos\ApplicationTest\OutRefApps\obj\Debug\OutRefApps.csproj.CoreCompileInputs.cache
+C:\Users\Harena\source\repos\ApplicationTest\OutRefApps\obj\Debug\OutRefApps.exe
+C:\Users\Harena\source\repos\ApplicationTest\OutRefApps\obj\Debug\OutRefApps.pdb

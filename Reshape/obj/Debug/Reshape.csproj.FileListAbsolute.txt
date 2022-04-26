@@ -1,0 +1,14 @@
+D:\VisualStudio2019\ApplicationTest\Reshape\bin\Debug\Reshape.exe.config
+D:\VisualStudio2019\ApplicationTest\Reshape\bin\Debug\Reshape.exe
+D:\VisualStudio2019\ApplicationTest\Reshape\bin\Debug\Reshape.pdb
+D:\VisualStudio2019\ApplicationTest\Reshape\obj\Debug\Reshape.csproj.CoreCompileInputs.cache
+D:\VisualStudio2019\ApplicationTest\Reshape\obj\Debug\Reshape.exe
+D:\VisualStudio2019\ApplicationTest\Reshape\obj\Debug\Reshape.pdb
+D:\VisualStudio2019\ApplicationTest\Reshape\obj\Debug\Reshape.csproj.AssemblyReference.cache
+C:\Users\Harena\source\repos\ApplicationTest\Reshape\bin\Debug\Reshape.exe.config
+C:\Users\Harena\source\repos\ApplicationTest\Reshape\bin\Debug\Reshape.exe
+C:\Users\Harena\source\repos\ApplicationTest\Reshape\bin\Debug\Reshape.pdb
+C:\Users\Harena\source\repos\ApplicationTest\Reshape\obj\Debug\Reshape.csproj.AssemblyReference.cache
+C:\Users\Harena\source\repos\ApplicationTest\Reshape\obj\Debug\Reshape.csproj.CoreCompileInputs.cache
+C:\Users\Harena\source\repos\ApplicationTest\Reshape\obj\Debug\Reshape.exe
+C:\Users\Harena\source\repos\ApplicationTest\Reshape\obj\Debug\Reshape.pdb
